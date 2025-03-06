@@ -1,4 +1,3 @@
-#!/bin/bash
 
 # Read input sentence
 read -p "Enter a sentence: " sentence
