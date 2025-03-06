@@ -1,4 +1,3 @@
-#!/bin/bash
 
 # Check if filename is provided
 if [ $# -ne 1 ]; then
